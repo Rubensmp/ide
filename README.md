@@ -10,7 +10,6 @@ Commits to master and PRs are automatically built and deployed by Netlify
 ![image](https://user-images.githubusercontent.com/22571395/40135873-ffe73618-5963-11e8-85db-01c103688f4a.png)
 
 ## README translated to:
-- [English](README.md)
 - [Brazilian Portuguese](docs/br/README.md)
 
 ## Table of Contents
