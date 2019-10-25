@@ -10,12 +10,11 @@ Commits para master e PRs são automaticamente compilado e implementado pela Net
 
 ## README traduzido para:
 - [English](README.md)
-- [Brazilian Portuguese](docs/br/README.md)
 
 ## Índice
 - [Build Setup](#build-setup)
-- [Funcionalidades](#features)
-- [Funções](#functions)
+- [Funcionalidades](#funcionalidades)
+- [Funções](#funções)
 - [API](#api)
 
 ## Build Setup
